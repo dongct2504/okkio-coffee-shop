@@ -5,6 +5,10 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OkkioCoffeeShop.Main", "OkkioCoffeeShop.Main\OkkioCoffeeShop.Main.csproj", "{2534EA07-DE6A-47BD-ABA4-3B55000D35D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OkkioCoffeeShop.Business", "OkkioCoffeeShop.Business\OkkioCoffeeShop.Business.csproj", "{C4203048-B40E-40E2-B747-C4D4780C941C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OkkioCoffeeShop.DataAccess", "OkkioCoffeeShop.DataAccess\OkkioCoffeeShop.DataAccess.csproj", "{42441577-679A-4D29-A922-A69892801C69}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{2534EA07-DE6A-47BD-ABA4-3B55000D35D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2534EA07-DE6A-47BD-ABA4-3B55000D35D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2534EA07-DE6A-47BD-ABA4-3B55000D35D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4203048-B40E-40E2-B747-C4D4780C941C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4203048-B40E-40E2-B747-C4D4780C941C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4203048-B40E-40E2-B747-C4D4780C941C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4203048-B40E-40E2-B747-C4D4780C941C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42441577-679A-4D29-A922-A69892801C69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42441577-679A-4D29-A922-A69892801C69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42441577-679A-4D29-A922-A69892801C69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42441577-679A-4D29-A922-A69892801C69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
