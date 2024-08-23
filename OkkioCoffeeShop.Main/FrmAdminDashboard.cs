@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace OkkioCoffeeShop.Main
 {
-    public partial class FrmMain : Form
+    public partial class FrmAdminDashboard : Form
     {
-        public FrmMain()
+        public FrmAdminDashboard()
         {
             InitializeComponent();
         }
